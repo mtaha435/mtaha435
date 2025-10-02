@@ -19,13 +19,13 @@ I thrive on building impactful software solutions that make life easier, whether
 
 ---
 
-### 🌟 Featured Projects
-- **[Interactive Historical Globe](#)**  
-  A 3D Earth model with real-time APIs & SQL, visualizing 1,000+ historical events interactively.
-- **Employee Management System**  
-  Java console app + SQL backend for streamlined record keeping & salary updates.
-- **Automated Class Registration System**  
-  GUI tool automating course signup in under 30 seconds, used by fellow students!
+### 🌟 In Progress Projects
+- **TV Show Recommendation Algorithm**  
+  A Datamining project to help you find your next show to binge.
+- **Study buddy matchmaking app for GSU**  
+  A web-app for finding fellow students in your class or adjacent classes.
+- **All in One Event/Employee Management System**  
+  A seamless system for people to host their events and workshops, communicate with cohosts/employees, follow up with participants, and much more.
 - **[Personal Portfolio Website](https://mtaha435.github.io/)**  
   Modular, responsive site showcasing my work, demos, and contact info.
 
