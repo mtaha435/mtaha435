@@ -47,7 +47,7 @@ I’ve called three countries and five states home, attended three high schools,
 
 ### 📫 Connect with Me
 
-- **Email:** mataha435@gmail.com
+- **Email:** mataha435 [at] gmail [dot] com
 - **GitHub:** [mtaha435](https://github.com/mtaha435)
 - **LinkedIn:** [linkedin.com/in/mataha1](https://www.linkedin.com/in/mataha1)
 - **Portfolio:** [mtaha435.github.io](https://mtaha435.github.io/)
