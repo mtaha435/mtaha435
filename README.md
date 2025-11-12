@@ -13,9 +13,8 @@ I thrive on building impactful software solutions that make life easier, whether
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** Java, Python, SQL, JavaScript, HTML/CSS, Swift
-- **Frameworks/Tools:** Selenium, Pandas, NumPy, Matplotlib, BeautifulSoup, Pypdf, Three.js, JDBC, DBeaver
-- **Experience with:** R, C, C#, RISC-V Assembly
+- **Languages:** Java, Python, SQL, JavaScript, Typescript, Swift, R, Tailwind, HTML/CSS, C/C#, RISC-V/x86 Assembly
+- **Frameworks/Tools:** Selenium, Pandas, NumPy, Matplotlib, sklearn, React.js, Next.js, Hono, Three.js, PostgreSQL, NoSQL, MySQL, DBeaver, JDBC, Git, Docker
 
 ---
 
