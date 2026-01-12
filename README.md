@@ -19,12 +19,8 @@ I thrive on building impactful software solutions that make life easier, whether
 ---
 
 ### 🌟 In Progress Projects
-- **TV Show Recommendation Algorithm**  
-  A Datamining project to help you find your next show to binge.
 - **Study buddy matchmaking app for GSU**  
   A web-app for finding fellow students in your class or adjacent classes.
-- **All in One Event/Employee Management System**  
-  A seamless system for people to host their events and workshops, communicate with cohosts/employees, follow up with participants, and much more.
 - **[Personal Portfolio Website](https://mtaha435.github.io/)**  
   Modular, responsive site showcasing my work, demos, and contact info.
 
