@@ -34,9 +34,9 @@ I’ve called three countries and five states home, attended three high schools,
 
 ### 💬 Interests
 
-- Swimming 🏊‍♂️
-- Watching basketball & soccer 🏀⚽
-- Studying physics & exploring Islamic philosophy
+- Swimming Freestyle🏊‍♂️
+- Watching CFB & Soccer 🏀⚽
+- Studying Physics, Theology, Neural Networks
 
 ---
 
