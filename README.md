@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed A. Taha 👋
 
-**Senior Computer Science Student | Data Science Enthusiast | API, Automation & Visualization Builder**
+**MSA Student | Data Science Enthusiast | API, Automation & Visualization Builder**
 
 ---
 
