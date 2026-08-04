@@ -6,15 +6,17 @@
 
 ### 🚀 About Me
 
-I’m a passionate software engineer based in Atlanta, GA, currently pursuing a B.S. in Computer Science at Georgia State University with a Data Science certificate. My journey spans three countries, five US states, three high schools, and over twenty countries traveled — giving me a global perspective and a knack for adapting to new challenges.
+I’m a passionate software engineer based in Atlanta, GA; Completed my B.S. in Computer Science at Georgia State University with a Data Science certificate; currently working towards my M.S. in Analytics with a concentration in Big Data & Machine Learning. My journey spans three countries, five US states, three high schools, and over twenty countries traveled — giving me a global perspective and a knack for adapting to new challenges.
 
 I thrive on building impactful software solutions that make life easier, whether it’s optimizing business workflows, automating tedious tasks, or visualizing data in new ways. My mission? To create tech that’s as intuitive as it is powerful.
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** Java, Python, SQL, JavaScript, Typescript, Swift, R, Tailwind, HTML/CSS, C/C#, RISC-V/x86 Assembly
-- **Frameworks/Tools:** Selenium, Pandas, NumPy, Matplotlib, sklearn, React.js, Next.js, Hono, Three.js, PostgreSQL, NoSQL, MySQL, DBeaver, JDBC, Git, Docker
+- **Languages:** Java, Python, SQL, JavaScript, Typescript, Swift, R, HTML/CSS, C/C#, RISC-V/x86 Assembly
+- **Data Science:** TensorFlow · Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib · Jupyter · Power BI · Excel
+- **Databases & Cloud:** PostgreSQL · MySQL · SQLite · Firestore · Docker · Kubernetes · GCP · Snowflake · Git
+- **Fullstack:** React.js · Next.js · Express.js · .NET 8 · Prisma ORM · Drizzle ORM · Bun · Hono · Tailwind · Bootstrap
 
 ---
 
@@ -26,16 +28,10 @@ I thrive on building impactful software solutions that make life easier, whether
 
 ---
 
-### 🌍 Fun Fact
-
-I’ve called three countries and five states home, attended three high schools, and explored twenty countries — picking up new languages, perspectives, and stories along the way. Whether I’m in a new city or a new codebase, I’m always ready for the next adventure!
-
----
-
 ### 💬 Interests
 
 - Swimming Freestyle🏊‍♂️
-- Watching CFB & Soccer 🏀⚽
+- Watching Club Football ⚽
 - Studying Physics, Theology, Neural Networks
 
 ---
