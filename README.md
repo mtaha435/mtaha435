@@ -21,8 +21,8 @@ I thrive on building impactful software solutions that make life easier, whether
 ---
 
 ### 🌟 In Progress Projects
-- **Study buddy matchmaking app for GSU**  
-  A web-app for finding fellow students in your class or adjacent classes.
+- **Multimodal Corporate Sociopolitical Activism Detection**
+  Comparing text-based, visual-based, and multimodal approaches to discovering Corporate Activism trends.
 - **[Personal Portfolio Website](https://mtaha435.github.io/)**  
   Modular, responsive site showcasing my work, demos, and contact info.
 
