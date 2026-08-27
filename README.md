@@ -21,7 +21,7 @@ I thrive on building impactful software solutions that make life easier, whether
 ---
 
 ### 🌟 In Progress Projects
-- **Multimodal Corporate Sociopolitical Activism Detection**<br>
+- **[Multimodal Corporate Sociopolitical Activism Detection](https://github.com/mtaha435/Corporate_Activism)**<br>
   Comparing text-based, visual-based, and multimodal approaches to discovering Corporate Activism trends.
 - **[Personal Portfolio Website](https://mtaha435.github.io/)**<br>
   Modular, responsive site showcasing my work, demos, and contact info.
